@@ -1,5 +1,5 @@
-This is BDD-test-framework developed using Page object model
-This project contains BDD selenium Test
+This is BDD-test-framework developed using Page object model,
+This project contains BDD selenium Test,
 Technologies used within this project:
 Java
 Maven
